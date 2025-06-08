@@ -1,0 +1,36 @@
+.sign-up{
+    background-color: #967e7e;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    justify-items:  center;
+    margin-top: 150px;
+}
+.formation{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.signup-form{
+    width: 200px;
+    justify-items:  center;
+
+}
+input{
+    width: 100%;
+    height:15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+button{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+}
